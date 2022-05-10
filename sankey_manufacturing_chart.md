@@ -13,8 +13,8 @@ and then moved through a process into two different Brands (perhaps
 “premium” vs “value”) with two different products each.
 
 This chart is normally interactive in that a user can hover over the
-different objects see numeric values and even drag the nodes around,
-however active Javascript isn’t on GitHub pages.
+different objects to see numeric values and even drag the nodes around,
+however active Javascript is disabled on GitHub pages.
 
 **Chart is below the following code block.**
 
