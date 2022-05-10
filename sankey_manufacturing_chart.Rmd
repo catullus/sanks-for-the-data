@@ -2,7 +2,7 @@
 title: "Sankey Chart for Extraction Process"
 author: "Cody Flagg"
 date: "5/9/2022"
-output: github_document
+output: html_document
 ---
 
 This is a very simple example of how a Sankey Chart can be used to visualize the `flow` (quantity, mass etc.) between different `nodes` (manufacturing steps, business entities etc.) in a process. 
